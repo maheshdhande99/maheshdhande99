@@ -1,5 +1,5 @@
 - 👋 Hi, I’m mahesh dhande
-- 👀 I’m interested in  AI  
+- 👀 I’m interested in AI and machine learning  
 - 🌱 I’m currently learning data science
 - 📫 How to reach me dhandemahesh999@gmail.com my email
 
